@@ -6,6 +6,10 @@
 
 ![Screenshot 2025-01-08 180358](https://github.com/user-attachments/assets/b7067209-dfed-459c-951f-9e214c34a1ab)
 
+![Screenshot (284)](https://github.com/user-attachments/assets/11d38b64-7fda-4a09-ac23-1ad88e432a96)
+<p>mysql-connector-j-8.0.31 diletakkan di referenced libraries</p>
+
+
 ## Create Databases
 ![Screenshot (285)](https://github.com/user-attachments/assets/c7161e62-15ca-476f-9e55-e2891bac1331)
 
@@ -181,7 +185,7 @@ public class MahasiswaController {
     }
 }
 ```
-# NilaiController
+## NilaiController
 ```
 package controller;
 
@@ -505,7 +509,7 @@ public class Nilai {
     public void setNilai(int nilai) { this.nilai = nilai; }
 }
 ```
-# NilaiModel
+## NilaiModel
 ```
 package model;
 
@@ -940,5 +944,19 @@ public class Main {
     }
 }
 ```
+# Output
+## Form Mahasiswa
+![Screenshot (281)](https://github.com/user-attachments/assets/d28c4a3c-8fc0-4ebd-8528-c26e6803e052)
+
+## Form nilai
+![Screenshot (282)](https://github.com/user-attachments/assets/4ce9ae74-5246-4f50-bbe4-3a65fb2952b3)
+<p>Data Mahasiswa yang dipilih dan setelah di input nilai</p>
+
+## Update nilai
+![Screenshot (283)](https://github.com/user-attachments/assets/6105fecb-9a8f-4341-bc24-7190556cda4a)
+
+
+
+
 
 
